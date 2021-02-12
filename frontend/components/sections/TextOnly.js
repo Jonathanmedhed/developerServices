@@ -11,7 +11,7 @@ const TextOnly = () => {
 				target="_blank"
 				rel="noopener noreferrer"
 				className="btn btn-primary mt-1"
-				href="https://ecommercespanish.herokuapp.com/"
+				href="http://heddrichecommerce.xyz/"
 			>
 				Ingresar
 			</a>
